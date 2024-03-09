@@ -11,7 +11,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/han-le#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/han-le#gh-dark-mode-only)
 
-### Languages and Libraries:
+### Programming Languages and Libraries:
 
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org/)
 [<img align="left" alt="Scala" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="padding-right:10px;" />](https://www.scala-lang.org/)
@@ -20,6 +20,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right:10px;" />](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+<br />
 
 ### Tools:
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
@@ -27,9 +28,11 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 [<img align="left" alt="Kafka" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" style="padding-right:10px;" />](https://kafka.apache.org/)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en)
-
-
 <br />
+
+### Machine learning tools:
+[<img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />](https://pytorch.org/)
+[<img align="left" alt="Sklearn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" style="padding-right:10px;" />](https://scikit-learn.org/stable/)
 <br />
 
 ---
@@ -43,11 +46,10 @@
 
 ---
 
-<details>
-  <summary> GitHub Stats </summary>
+### GitHub Stats
 
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=han-le11&hide=jupyternotebook&theme=tokyonight)
-</details>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=han-le11&hide=jupyternotebook&theme=tokyonight)
+
 
 [linkedin]: https://www.linkedin.com/in/han-le/
 

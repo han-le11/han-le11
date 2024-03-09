@@ -21,6 +21,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right:10px;" />](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 <br />
+<br />
 
 ### Tools:
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
@@ -28,6 +29,7 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 [<img align="left" alt="Kafka" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" style="padding-right:10px;" />](https://kafka.apache.org/)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en)
+<br />
 <br />
 
 ### Machine learning tools:

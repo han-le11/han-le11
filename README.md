@@ -49,7 +49,7 @@
 
 ### GitHub Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=han-le11&hide=jupyternotebook,html&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=han-le11&hide=jupyter%20notebook,html&theme=tokyonight)
 
 
 [linkedin]: https://www.linkedin.com/in/han-le/

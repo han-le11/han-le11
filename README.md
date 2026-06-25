@@ -1,9 +1,9 @@
 # Hi there, I'm Han 👋 
 
-- 🔭 Currently a developer in team [BOSS](https://sites.utu.fi/boss/), a machine learning tool
+- Currently a master's thesis worker and AI engineer at IT Services of Aalto University
+- 🔭 Previously a developer in team [BOSS](https://sites.utu.fi/boss/), a machine learning tool
 - 🌱 A master's student in Computer Science at [Aalto University](https://www.aalto.fi/en/programmes/masters-programme-in-computer-communication-and-information-sciences)
-- 🥅 Current goals: Learn more about fullstack development and deep learning
-- 📩 Email: han.le@aalto.fi
+- 📩 Email: le.nm.han@gmail.com
 - 📍 Based in Helsinki, Finland
 
 ### Connect with me:
